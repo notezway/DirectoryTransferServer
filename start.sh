@@ -1,0 +1,1 @@
+java -jar directory-transfer-server-1.0-SNAPSHOT.jar
